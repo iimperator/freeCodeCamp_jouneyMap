@@ -9,7 +9,7 @@ Currently, I completed **204** exercise.
  - [x] Responsive Design iwth Bootstrap (5 hours)
  - [x] jQuery (3 hours)
  - [x] Basic Front End Development Projects (50 hours)
-   - [ ] [Tribute Page](https://codepen.io/iimperator/pen/zZgZXj)
+   - [x] [Tribute Page](https://codepen.io/iimperator/pen/zZgZXj)
  - [ ] Basic JavaSript (10 hours)
  - [ ] Object Oriented and Functional Programming (2 hours)
  - [ ] Basic Algorithm Scripting (50 hours)
